@@ -1,2 +1,4 @@
-# kaggle_practice
- use kaggle dataset 
+캐글 데이터셋을 이용하여 데이터 분석을 진행하고 있습니다.
+--
+ 2024.03.01
+- Hotel booking demand 데이터셋을 활용한 각 컬럼의 통계치 및 lead_time 컬럼의 분포 시각화
