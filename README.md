@@ -6,3 +6,5 @@
 - Wine 상관관계, 공분산 구하기
 
 - Superstore Sales 날짜 형식 변환, 막대 그래프 사용
+
+- starbucks-seoul-map 지도 마킹
