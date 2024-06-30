@@ -30,7 +30,7 @@ tools = [
     Tool(
         name = "Calc",
         func=llm_math.run,
-        description="수학 계산을 해주는 API"
+        description="계산을 해주는 API"
     )
 ]
 
