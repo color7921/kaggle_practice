@@ -35,5 +35,5 @@ tools = [
 ]
 
 agent = initialize_agent(tools, llm, verbose=True)
-result = agent.invoke("한국 대통령의 나이에 10을 더하면 얼마야?")
+result = agent.invoke("")
 print(result['output'])
